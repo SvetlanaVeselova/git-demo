@@ -1,2 +1,4 @@
 sword 1
 sword 2
+sword 3
+sword 4

@@ -5,3 +5,6 @@ sword 4
 
 sword 5
 sword 6
+
+fword 7
+fword 8
